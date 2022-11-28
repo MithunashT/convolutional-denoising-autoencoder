@@ -1,6 +1,6 @@
 ### EX NO: 07
 
-### DATE: 14/11/2022
+### DATE:
 
 
 # </br><p align = "center"> Convolutional Autoencoder for Image Denoising </p> 
